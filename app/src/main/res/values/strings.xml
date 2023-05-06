@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">PETIII</string>
+    <string-array name="stage">
+        <item>統計王者：李來錫</item>
+        <item>提早下課：戴逸民</item>
+        <item>來念五遍：魏大雅</item>
+        <item>指令照打：陳俊麟</item>
+        <item>轉學轉系：石宗正</item>
+        <item>我沒有說：陳煜璋</item>
+        <item>不用緊張：蕭文峰</item>
+        <item>飛利浦王：吳雪馥</item>
+        <item>地獄獨腿：張玲星</item>
+        <item>友情客串：郭秉寰</item>
+        <item>獎勵關卡：蔡孟琳</item>
+    </string-array>
+    <string-array name="storytext">
+        <item>fox_sad#狐#這裡是...</item>
+        <item>cat_happy#貓#你終於醒啦！</item>
+        <item>fox_normal#狐#你又誰？</item>
+        <item>cat_happy#貓#這裡是收留我的主人家啊喵！在這裡每天都有罐罐吃。</item>
+        <item>fox_normal#狐#欸－－？</item>
+        <item>noPicture#聲音#(進門聲)</item>
+        <item>cat_angry#貓#主人回來啦！好慢！我的罐罐呢？</item>
+        <item>cat_angry#playerName#好好好，等等。咦？這位是...你的朋友嗎？</item>
+        <item>cat_normal#貓#估計是剛從異世界被傳送過來的狐狸族吧！應該啦喵。</item>
+        <item>cat_normal#playerName#原來從異世界跑過來是這麼容易的嗎？</item>
+        <item>cat_sad#貓#說實在話的我也就在不知不覺中，被傳過來了啊，而且還找不到地方回去？</item>
+        <item>cat_sad#playerName#那還真是比貨出去、人進來還要容易呢！哈哈哈</item>
+        <item>cat_angry#貓#終究草包不住火嘛。</item>
+        <item>fox_angry#狐#(這兩個人到底在說些甚麼...)</item>
+        <item>fox_normal#playerName#不過看起來，家裡的食客要多一個人了。這樣下去我有得努力加班賺錢了。</item>
+        <item>fox_sad#狐#非常不好意思，對於這裡我什麼都不知道。</item>
+        <item>fox_sad#playerName#啊！這倒是不必道歉，你可以先留在這裡無所謂。畢竟我已經收留過一個了，很有經驗。</item>
+        <item>cat_sad#貓#仔細一想這樣我的罐罐是不是會變少！</item>
+        <item>cat_sad#playerName#嗯...這樣吧！為了不讓任何人少吃一餐，你我都得努力。</item>
+        <item>cat_happy#playerName#那就是大家都要打工！</item>
+        <item>fox_normal#狐#具體而言要怎麼做呢？難道是我要去挖石油嗎？</item>
+        <item>fox_normal#playerName#不...這太為難你這個客人了！畢竟現在連油田在哪裡都還沒找到。</item>
+        <item>cat_angry#貓#那還真的是很困擾啊喵！</item>
+        <item>fox_happy#狐#那去當摩天輪的管理人員呢？應該很好賺吧？</item>
+        <item>fox_happy#playerName#啊...那個也還沒蓋就是了。</item>
+        <item>fox_angry#狐#那...到底該怎麼辦！身為一個狐狸，我不能夠就這樣白吃白喝，這樣有違我狐狸一族的尊嚴。</item>
+        <item>cat_normal#貓#聽說狐狸一族都很愛面子看來是真的，他們那族的縣市首長從來都不會落跑去選總統。</item>
+        <item>fox_angry#狐#沒錯！在我們這族敢落跑是會被做成中部粽的。</item>
+        <item>fox_angry#playerName#原來你們那個世界的中部也有很多消波塊就對了。</item>
+        <item>cat_normal#貓#那到底有什麼好方法呢？</item>
+        <item>cat_normal#playerName#有了！去「屏大資管地下城」吧！那裏有很多兇猛又可怕的怪物。討伐他們來賺錢吧！</item>
+        <item>cat_happy#貓#真是好方法呀喵！搞不好還能大賺一筆，去高雄迪士尼玩好幾個禮拜！</item>
+        <item>fox_normal#狐#你的下一句話是，那個其實也還沒落成。</item>
+        <item>fox_normal#playerName#那個其實也還沒落成。</item>
+        <item>fox_happy#playerName#靠北。</item>
+        <item>fox_happy#狐#好吧！雖然聽起來會很辛苦，但是只能這麼做了。請兩位貴人多指教。</item>
+        <item>cat_happy#貓#一起前往「屏大資管地下城」吧！</item>
+    </string-array>
+</resources>
